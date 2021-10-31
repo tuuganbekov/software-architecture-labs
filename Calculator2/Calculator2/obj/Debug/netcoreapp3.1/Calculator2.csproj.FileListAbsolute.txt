@@ -1,0 +1,15 @@
+C:\Users\btuug\source\repos\Calculator2\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.exe
+C:\Users\btuug\source\repos\Calculator2\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.deps.json
+C:\Users\btuug\source\repos\Calculator2\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.runtimeconfig.json
+C:\Users\btuug\source\repos\Calculator2\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.runtimeconfig.dev.json
+C:\Users\btuug\source\repos\Calculator2\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.dll
+C:\Users\btuug\source\repos\Calculator2\Calculator2\bin\Debug\netcoreapp3.1\Calculator2.pdb
+C:\Users\btuug\source\repos\Calculator2\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.Form1.resources
+C:\Users\btuug\source\repos\Calculator2\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.csproj.GenerateResource.cache
+C:\Users\btuug\source\repos\Calculator2\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btuug\source\repos\Calculator2\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.AssemblyInfoInputs.cache
+C:\Users\btuug\source\repos\Calculator2\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.AssemblyInfo.cs
+C:\Users\btuug\source\repos\Calculator2\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\btuug\source\repos\Calculator2\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.dll
+C:\Users\btuug\source\repos\Calculator2\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.pdb
+C:\Users\btuug\source\repos\Calculator2\Calculator2\obj\Debug\netcoreapp3.1\Calculator2.genruntimeconfig.cache
